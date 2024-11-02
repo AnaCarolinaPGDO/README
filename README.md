@@ -1,3 +1,20 @@
+##### Hi there 👋
+
+AnaCarolinaPGDO/AnaCarolinaPGDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on learning how to start.
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on Discord
+- 🤔 I’m looking for help with anyone!
+- 💬 Ask me about Gaming, programming
+- 📫 How to reach me: Linkedin
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I like purple
+-->
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaPGDO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaCarolinaPGDO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
